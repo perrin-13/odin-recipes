@@ -1,0 +1,2 @@
+This project consists of writing out recipes with their ingredients and directions.
+Skill utilized are setting anchors for links, placing and sourcing images, generating unordered lists for the ingredients and nutrition info, if it's available, and generating ordered lists for the steps needed to make the recipe.
